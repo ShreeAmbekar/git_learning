@@ -1,0 +1,7 @@
+with below command
+
+"vi .gitignore
+ add *.java & *.css"
+ 
+ this file will get ignored and cannot commit in git
+ 
